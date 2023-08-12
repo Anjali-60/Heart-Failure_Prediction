@@ -1,1 +1,1 @@
-# Heart-Failure_Prediction
+# Heart-failure-prediction-project

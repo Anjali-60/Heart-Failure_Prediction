@@ -31,7 +31,7 @@ We have utilized a comprehensive dataset containing a wide range of patient attr
 5) **Prediction**: Once our model is trained and validated, it can be used to predict the risk of heart failure for new patients, aiding healthcare professionals in making timely and informed decisions.
 
 ### Getting Started:
-1) Clone the repository to your local machine using the command: git clone https://github.com/Anjali-60/Driver-Drowsiness-Detection-System-Project.git
+1) Clone the repository to your local machine using the command: git clone https://github.com/Anjali-60/Heart-Failure_Prediction
 2) Install the required dependencies and libraries as mentioned in the requirements.txt file.
 3) Explore the Jupyter notebooks in order to understand the system's functionality and model training process.
 4) Run the main.ipynb notebook to experience the heart failure prediction system.

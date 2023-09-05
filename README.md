@@ -32,6 +32,8 @@ We have utilized a comprehensive dataset containing a wide range of patient attr
 
 ### Getting Started:
 1) Clone the repository to your local machine using the command: git clone https://github.com/Anjali-60/Heart-Failure_Prediction
-2) Install the required dependencies and libraries as mentioned in the requirements.txt file.
-3) Explore the Jupyter notebooks in order to understand the system's functionality and model training process.
-4) Run the main.ipynb notebook to experience the heart failure prediction system.
+2) Install the required dependencies and libraries using the command: pip install -r requirements.txt
+3) Download the dataset from the link: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+4) Explore the Jupyter notebooks in order to understand the system's functionality and model training process.
+5) Run the main.ipynb notebook to experience the heart failure prediction system.
+   

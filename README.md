@@ -35,5 +35,5 @@ We have utilized a comprehensive dataset containing a wide range of patient attr
 2) Install the required dependencies and libraries using the command: pip install -r requirements.txt
 3) Download the dataset from the link: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
 4) Explore the Jupyter notebooks in order to understand the system's functionality and model training process.
-5) Run the main.ipynb notebook to experience the heart failure prediction system.
+5) Run the Heart Failure Prediction.ipynb notebook to experience the heart failure prediction system.
    

@@ -19,7 +19,7 @@ We have utilized a comprehensive dataset containing a wide range of patient attr
 8) **Serum Creatinine**: The level of serum creatinine in the blood.
 9) **Serum Sodium**: The level of serum sodium in the blood.  
 10) **Sex**: The gender of the patient (0 for Female, 1 for Male).
-11.**Smoking**: Whether the patient is a smoker (0 for No, 1 for Yes).
+11) **Smoking**: Whether the patient is a smoker (0 for No, 1 for Yes).
 12) **Time**: The follow-up period in days.
 13) **DEATH_EVENT**: The outcome (0 for Survived, 1 for Deceased).
 
